@@ -1,0 +1,37 @@
+.icon-48-generic {
+	background-image:url(../images/icons/icon-48-user.png) !important;
+}
+
+span  {
+	display:block;
+	text-align:left;
+}
+
+div.icon  {
+	float:left;
+	margin-left:5px;
+	margin-bottom:5px;
+	margin-right:5px;
+	text-align:center;
+}
+
+h2{
+    color:#FF6D00;
+	padding-left:10px;
+}
+
+#submenu a:hover, #submenu a.active,#submenu span.nolink.active {
+	color:#FF6D00 !important;
+}
+  
+#submenu li a, #submenu span.nolink {
+	color:#025A8D !important;
+}
+
+div.pagetitle h2 {
+	color:#FF6D00 !important;
+}
+
+input[type="radio"], input[type="checkbox"] {
+	float: left !important;
+}
